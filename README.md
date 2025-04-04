@@ -54,7 +54,7 @@ Once the MCP is set up and the server is running, you can use the following exam
 mcp-books/
 ├── app.py              # FastAPI application with sample book data
 ├── server.py           # Python MCP server implementation
-├── ts-mcp/             # TypeScript MCP implementation
+├── mcp-server/         # TypeScript MCP implementation
 │   ├── src/
 │   │   └── index.ts    # TypeScript MCP server
 │   ├── package.json    # Node.js dependencies
